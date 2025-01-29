@@ -5,9 +5,18 @@ layout: home
 hero:
   name: "新概念英语4"
   text: ""
-  tagline: site created by create-vitepressx
-  actions:
-    - theme: brand
-      text: 第一课 Finding fossil man 发现化石人
-      link: /Lesson_1_Finding_fossil_man_发现化石人.md
 ---
+<script setup>
+import { useData } from 'vitepress';
+
+const { theme } = useData();
+const sidebar = theme.value.sidebar;
+console.log(sidebar[0].items)
+</script>
+# 目录
+
+<ul>
+  <li v-for="item in sidebar[0].items" :key="item.text">
+    <a :href="item.link">{{ item.text }}</a>
+  </li>
+</ul>

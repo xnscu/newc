@@ -1,6 +1,6 @@
 {
   "name": "newc",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "scripts": {
     "preb": "npm --no-git-tag-version version minor",
     "b": "npm run push",
@@ -18,8 +18,8 @@
     "build": "npm run docs:build",
     "preview": "npm run docs:preview",
     "docs:dev": "dotenv -- vitepress dev .",
-    "docs:build": "vitepress build .",
-    "docs:preview": "vitepress preview .",
+    "docs:build": "dotenv -- vitepress build .",
+    "docs:preview": "dotenv -- vitepress preview .",
     "set-g": "git remote set-url origin git@github.com:xnscu/newc.git",
     "add-g": "git remote add origin git@github.com:xnscu/newc.git"
   },
