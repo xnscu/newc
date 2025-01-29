@@ -1,6 +1,6 @@
 {
   "name": "newc",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "scripts": {
     "preb": "npm --no-git-tag-version version minor",
     "b": "npm run push",

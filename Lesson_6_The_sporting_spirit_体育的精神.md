@@ -1,6 +1,6 @@
 ## Lesson 6 The sporting spirit 体育的精神
 
-冥 First listen and then answer the following question.
+## First listen and then answer the following question.
 
 听录音,然后回答以下问题。
 
