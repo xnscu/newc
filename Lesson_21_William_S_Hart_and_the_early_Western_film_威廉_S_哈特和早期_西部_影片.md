@@ -62,7 +62,7 @@ code (1.18) $/\mathrm{k} \cong  \mathrm{{Ud}}/n$ . 准则
 
 Unit 3 Lesson 21
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_124_207_144_1105_684_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_124_207_144_1105_684_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_124_207_144_1105_684_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_124_207_144_1105_684_0.jpg)
 
 William S. Hart in an early Western
 

@@ -16,7 +16,7 @@ The most economical age to capture an elephant for training is between fifteen a
 
 When several elephants are being trained at one time, it is customary for the new arrival to be placed between the stalls of two captives whose training is already well advanced. It is then left completely undisturbed with plenty of food and water so that it can absorb the atmosphere of its new home and see that nothing particularly alarming is happening to its companions. When it is eating normally, its own training 25 begins. The trainer stands in front of the elephant holding a long stick with a sharp metal point. Two assistants, mounted on tame elephants, control the captive from either side, while others rub their hands over his skin to the accompaniment of a monotonous and soothing chant. This is supposed to induce pleasurable sensations in the elephant, and its effects are reinforced by the use of endearing epithets, such as 'ho! my son', or 'ho! my father', or 'my mother', according to the age and sex of the captive. The elephant is not 30 immediately susceptible to such blandishments, however, and usually lashes fiercely with its trunk in all directions. These movements are controlled by the trainer with the metal-pointed stick, and the trunk eventually becomes so sore that the elephant curls it up and seldom afterwards uses it for offensive purposes. Unit 6 Lesson 41
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_243_219_140_1098_681_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_243_219_140_1098_681_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_243_219_140_1098_681_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_243_219_140_1098_681_0.jpg)
 
 A wild Indian elephant is roped to two trained ones during the first few days of training.
 

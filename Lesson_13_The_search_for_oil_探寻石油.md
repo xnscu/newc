@@ -14,7 +14,7 @@ The geologist needs to know what rocks the drill has reached, so every so often 
 
 T. F. GASKELL The Search for the Earth's Minerals from Discovery
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_78_179_1190_661_831_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_78_179_1190_661_831_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_78_179_1190_661_831_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_78_179_1190_661_831_0.jpg)
 
 An oil rig drilling in the Abu Dhabi offshore oilfields in the Persian Gulf
 

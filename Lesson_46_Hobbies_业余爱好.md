@@ -20,7 +20,7 @@ It may also be said that rational, industrious, useful human beings are divided 
 
 WINSTON CHURCHILL Painting as a Pastime
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_271_206_381_1009_797_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_271_206_381_1009_797_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_271_206_381_1009_797_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_271_206_381_1009_797_0.jpg)
 
 Sir Winston Churchill painting in Switzerland in 1946
 

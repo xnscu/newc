@@ -16,7 +16,7 @@ be communicated to another by means of speech. With the invention of writing, a 
 
 G. N. M. Tyrrell The Personality of Man A military field-hospital
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_129_220_1354_549_672_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_129_220_1354_549_672_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_129_220_1354_549_672_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_129_220_1354_549_672_0.jpg)
 
 Unit 3 Lesson 22
 

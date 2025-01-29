@@ -32,7 +32,7 @@ hurricane (1.5) /’hʌrɪkən/ n. 飓风 cannon (1.7) / ‘kænən/ n. 加农�
 
 Unit 4 Lesson 27
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_163_211_129_711_685_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_163_211_129_711_685_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_163_211_129_711_685_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_163_211_129_711_685_0.jpg)
 
 The 'Vasa', now in a museum in Stockholm
 

@@ -64,7 +64,7 @@ concoct (1.9) $/k$ an’kɒkt/v. 调制
 
 potency (1.10) $/$ ’pəʊtənsi/ n. 效力 Unit 3 Lesson 20
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_118_210_149_1099_681_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_118_210_149_1099_681_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_118_210_149_1099_681_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_118_210_149_1099_681_0.jpg)
 
 An Indian grass snake swallowing a frog
 

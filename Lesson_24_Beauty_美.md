@@ -50,7 +50,7 @@ invest (1.15) $/{\mathrm{m}}^{\prime }$ vest $/v$ . 赋予
 
 Unit 3 Lesson 24
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_141_222_156_609_856_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_141_222_156_609_856_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_141_222_156_609_856_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_141_222_156_609_856_0.jpg)
 
 Detail of Madonna and Child-Filippo Lippi (C. 1406-1469)
 

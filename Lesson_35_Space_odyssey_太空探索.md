@@ -28,7 +28,7 @@ hub (1.1)/h $\Lambda$ b/n. (活动的) 中心 permanently (1.16) / ’p3ːmənə
 
 terrestrial (1.9) $/{\mathrm{{tI}}}^{\prime }$ restrial/ adj. 地球的 Unit 5 Lesson 35
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_210_216_152_902_719_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_210_216_152_902_719_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_210_216_152_902_719_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_210_216_152_902_719_0.jpg)
 
 Sojourner, the roving little robot sent aboard the Mars probe Pathfinder arrived Sunday July 6, 1997 on the planet Mars.
 

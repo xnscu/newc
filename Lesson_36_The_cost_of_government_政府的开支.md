@@ -46,9 +46,9 @@ dividend (1.17) ${1}^{\prime }$ dıvɪdˌənd/ $n$ . 红利
 
 unduly (1.23) $/\Delta {n}^{\prime }$ djuːli/adv. 过度地
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_224_143_538_565_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_224_143_538_565_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_224_143_538_565_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_224_143_538_565_0.jpg)
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_781_148_539_569_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_781_148_539_569_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_781_148_539_569_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_216_781_148_539_569_0.jpg)
 
 The Ministry of Natural Resources and The Home Office, Whitehall, London Local Government, Zomba, Malawi
 

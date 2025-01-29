@@ -16,7 +16,7 @@ Fortunately, however, ancient men made tools of stone, especially flint, because
 
 Robin Place Finding fossil man
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_7_219_1221_1073_802_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_7_219_1221_1073_802_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_7_219_1221_1073_802_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_7_219_1221_1073_802_0.jpg)
 
 Polished axeheads found at Seamers Moor in Yorkshire
 

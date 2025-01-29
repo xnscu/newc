@@ -16,7 +16,7 @@ It is hard for us to realize nowadays how difficult it was for the pioneers. Exc
 
 Walter Unsworth Matterhorn Man
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_19_204_1379_535_692_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_19_204_1379_535_692_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_19_204_1379_535_692_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_19_204_1379_535_692_0.jpg)
 
 Bergdorf, a mountain village in Switzerland
 

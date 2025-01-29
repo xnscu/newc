@@ -58,7 +58,7 @@ pedestrian (1.20) /p1'destrian/ adj. 平淡无奇的, 乏
 
 味的
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_283_226_157_990_650_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_283_226_157_990_650_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_283_226_157_990_650_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_283_226_157_990_650_0.jpg)
 
 The Stock Exchange, Tokyo 1994
 

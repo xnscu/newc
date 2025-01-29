@@ -16,7 +16,7 @@ So, faced with the Danish advance, Alfred did not risk open battle but harried t
 
 BERNARD NEWMAN Spies in Britain
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_55_224_1343_1046_683_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_55_224_1343_1046_683_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_55_224_1343_1046_683_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_55_224_1343_1046_683_0.jpg)
 
 Alfred, disguised as a harpist, in the camp of the Danes
 

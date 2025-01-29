@@ -14,7 +14,7 @@ bore for long distances through an opposing gale before exhaustion follows. Thei
 
 5 through a medium that seems to help its passage even when the wind is adverse. Such birds do us good, though we no longer take omens from their flight on this side and that; and even the most superstitious villagers no longer take off their hats to the magpie and wish it good-morning. Unit 3 Lesson 23
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_134_207_1418_1113_602_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_134_207_1418_1113_602_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_134_207_1418_1113_602_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_134_207_1418_1113_602_0.jpg)
 
 A flock of wild geese in flight
 

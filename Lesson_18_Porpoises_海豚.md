@@ -62,7 +62,7 @@ crack (1.17) $/\mathrm{{kr}} \mathrel{\text{æk}} /n$ . 重击
 
 Unit 3 Lesson 18
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_107_218_143_547_685_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_107_218_143_547_685_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_107_218_143_547_685_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_107_218_143_547_685_0.jpg)
 
 Dolphins jumping at Marineland in California
 

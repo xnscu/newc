@@ -38,7 +38,7 @@ Ptolemy (1.8) /’tolumi/ $n$ . 托勒密 (公元 90-168, 古希腊天文学家)
 
 Leaning Tower of Pisa (1.9) 比萨斜塔
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_191_224_136_869_681_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_191_224_136_869_681_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_191_224_136_869_681_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_191_224_136_869_681_0.jpg)
 
 Artist concept of the space telescope showing the shuttle, TDRSS, and a ground station
 

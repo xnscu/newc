@@ -16,7 +16,7 @@ Vera's curious talent was brought to the notice of a scientific research institu
 
 ERIC DE MAUNY Seeing hands from The Listener
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_25_226_1287_608_694_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_25_226_1287_608_694_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_25_226_1287_608_694_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_25_226_1287_608_694_0.jpg)
 
 Another Russian girl, Rosa Kuleshova, reads blindfold.
 

@@ -16,7 +16,7 @@ The bank must obey its customer's instructions, and not those of anyone else. Wh
 
 GORDON BARRIE and AUBREY L. DIAMOND The Consumer Society and the Law
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_72_191_1348_1014_678_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_72_191_1348_1014_678_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_72_191_1348_1014_678_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_72_191_1348_1014_678_0.jpg)
 
 National Westminster Bank at Queen St. in Cardiff
 

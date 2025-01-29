@@ -60,7 +60,7 @@ absurd (1.13) /əb'sɜːd/ adj. 荒唐的
 
 Unit 1 Lesson 6
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_38_213_118_979_661_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_38_213_118_979_661_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_38_213_118_979_661_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_38_213_118_979_661_0.jpg)
 
 East Midlands 'PIX'
 

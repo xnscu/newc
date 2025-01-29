@@ -16,7 +16,7 @@ How many spiders are engaged in this work on our behalf? One authority on spider
 
 T. H. Gillespie Spare that spider from The Listener
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg)
 
 # Unit 1 Lesson 2 New words and expressions 生词和短语
 

@@ -42,7 +42,7 @@ disgusting (1.22)/dɪs'ɡʌstɪŋ/ adj. 令人讨厌的
 
 inconvenience (1.23) /, Inkәn'viːniəns/n. 不便
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_169_238_172_1106_1311_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_169_238_172_1106_1311_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_169_238_172_1106_1311_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_169_238_172_1106_1311_0.jpg)
 
 A doctor with her patient
 

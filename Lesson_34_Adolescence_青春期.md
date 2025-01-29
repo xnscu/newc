@@ -32,7 +32,7 @@ evaluation (1.10) $/$ ivælju'eɪʃən $/n$ . 评价 cow (1.20) $/\mathrm{{kau}}
 
 infallibility (1.12)/m, fælə'bɪlɪti/n. 一贯正确 Unit 5 Lesson 34
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_204_199_144_1076_721_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_204_199_144_1076_721_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_204_199_144_1076_721_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_204_199_144_1076_721_0.jpg)
 
 An English family at home
 

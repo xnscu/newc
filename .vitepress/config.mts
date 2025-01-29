@@ -8,6 +8,7 @@ import mathjax3 from "markdown-it-mathjax3";
 // https://github.com/vuejs/vitepress/blob/main/docs/.vitepress/config/zh.ts
 export default defineConfig({
   outDir: "dist",
+  srcExclude: ['**/bin/**'],
   base: process.env.GITHUB_ACTIONS ? "/newc/" : "/",
   title: process.env.LOGO || "VitePressX",
   // markdown: {

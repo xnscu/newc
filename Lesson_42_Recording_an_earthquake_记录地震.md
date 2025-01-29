@@ -20,11 +20,11 @@ When the instrument is situated at more than 700 miles from the earthquake centr
 
 H. H. Swinnerton The Earth beneath Us Unit 6 Lesson 42 An earthquake recorded on a seismograph
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_195_154_501_674_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_195_154_501_674_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_195_154_501_674_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_195_154_501_674_0.jpg)
 
 The Shaw seismograph at the Science Museum, London
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_727_157_555_669_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_727_157_555_669_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_727_157_555_669_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_248_727_157_555_669_0.jpg)
 
 ## New words and expressions 生词和短语
 

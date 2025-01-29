@@ -40,7 +40,7 @@ plantation (1.17) /plæn’teiʃən/ n. 种植园
 
 hovertrain (1.18) / 如 $\nu$ -tor $n/n$ . 气垫火车
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_175_225_146_1095_833_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_175_225_146_1095_833_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_175_225_146_1095_833_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_175_225_146_1095_833_0.jpg)
 
 A hovercraft
 

@@ -64,7 +64,7 @@ confine (1.15) $/\mathrm{k} \ni  {\mathrm{n}}^{\prime }\mathrm{{fan}}/n$ . 范�
 
 domesticate (1.17) $/\mathrm{d}$ =mestrkert $/v$ . 驯养
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_101_210_141_1107_684_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_101_210_141_1107_684_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_101_210_141_1107_684_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_101_210_141_1107_684_0.jpg)
 
 Rabbits drinking at a waterhole in Australia
 

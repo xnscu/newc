@@ -28,7 +28,7 @@ colour-blind (l.4) / ˈkʌlə blaɪnd/ adj. 色盲的 mushroom (1.18) /"mʌʃru�
 
 Unit 4 Lesson 31
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_186_191_168_1098_679_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_186_191_168_1098_679_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_186_191_168_1098_679_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_186_191_168_1098_679_0.jpg)
 
 Henry Moore and his sculpture, Reclining Figure
 

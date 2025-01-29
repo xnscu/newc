@@ -1,10 +1,10 @@
 {
   "name": "newc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "preb": "npm --no-git-tag-version version minor; npm run build",
     "b": "npm run push",
-    "make": "rm -rf output; node ./bin/index.mjs",
+    "make": "rm -rf output; node ./bin/index.mjs && mv output/* .",
     "commit": "git add . && git commit -am ",
     "c": "npm run commit",
     "g": "npm run commit",

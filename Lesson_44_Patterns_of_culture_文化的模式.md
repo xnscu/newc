@@ -26,7 +26,7 @@ Unit 6 Lesson 44
 
 Ruth Benedict Patterns of Culture
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_260_206_413_535_689_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_260_206_413_535_689_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_260_206_413_535_689_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_260_206_413_535_689_0.jpg)
 
 A Padaung girl from Burma in her brass necklace
 

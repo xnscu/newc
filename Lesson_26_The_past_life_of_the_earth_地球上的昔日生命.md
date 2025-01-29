@@ -40,7 +40,7 @@ venture (1.21)/’ventfә/v. 冒险
 
 bogged (1.21) /bogd/ adj. 陷入泥沼的, 陷于困境的 Unit 4 Lesson 26
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_158_195_167_1097_680_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_158_195_167_1097_680_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_158_195_167_1097_680_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_158_195_167_1097_680_0.jpg)
 
 The mammoth in the Palaeontological Museum in St. Petersburg. Photographed in 1860
 

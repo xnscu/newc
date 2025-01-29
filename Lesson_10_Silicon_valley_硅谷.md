@@ -68,7 +68,7 @@ Kansas (1.15)/’kænzəs/ $n$ . 堪萨斯(美国州名)
 
 Missouri (1.15)/m1’zʊəri/n. 密苏里(美国州名) Unit 2 Lesson 10
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_62_194_149_700_1017_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_62_194_149_700_1017_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_62_194_149_700_1017_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_62_194_149_700_1017_0.jpg)
 
 Aerial view of Silicon Valley
 

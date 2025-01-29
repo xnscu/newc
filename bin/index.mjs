@@ -1,6 +1,10 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
+function cleanContent(s) {
+  return s.replace(/\(images\//g, '(/images/');
+ }
+
 async function splitMarkdownByHeading(mdString) {
   const sections = mdString.split(/^#\s+(Lesson.+)/m);
   if (sections.length <= 1) {
@@ -16,7 +20,7 @@ async function splitMarkdownByHeading(mdString) {
     const content = sections[i + 1] ? sections[i + 1].trim() : '';
     const filename = `${heading.replace(/[^a-zA-Z0-9\u4e00-\u9fa5]+/g, '_')}.md`; // Replace non-alphanumeric characters with underscores
     const filepath = path.join(outputDir, filename);
-    await fs.writeFile(filepath, `## ${heading}\n\n${content}\n`);
+    await fs.writeFile(filepath, `## ${heading}\n\n${cleanContent(content)}\n`);
     console.log(`Created file: ${filepath}`);
   }
 }

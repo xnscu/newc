@@ -20,7 +20,7 @@ It is well known that where the white man has invaded a primitive culture, the m
 
 down, or even destroying it. I have often tried to conceive of what those pages might contain, but of course I cannot do so because I am a prisoner of the present-day world, just as all of you are. We cannot think outside the particular patterns that our brains are conditioned to, or, to be more accurate, we can think only a very little way outside, and then only if we are very original. Unit 6 Lesson 45
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_266_224_154_1095_672_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_266_224_154_1095_672_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_266_224_154_1095_672_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_266_224_154_1095_672_0.jpg)
 
 An aerial view of Sausalito, California
 

@@ -12,7 +12,7 @@ When I was a teenager, I felt that I was just young and uncertain - that I was a
 
 I find young people exciting. They have an air of freedom, and they have not a dreary commitment to mean ambitions or love of comfort. They are not anxious social climbers, and they have no devotion to material things. All this seems to me to link them with life, and the origins of things. It's as if they were, in some sense, cosmic beings in violent and lovely contrast with us suburban creatures. All that is in my mind when I meet a young person. He may be conceited, ill-mannered, presumptuous or fatuous, but I do not turn 15 for protection to dreary clichés about respect for elders-as if mere age were a reason for respect. I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong.
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_31_227_1386_1062_649_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_31_227_1386_1062_649_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_31_227_1386_1062_649_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_31_227_1386_1062_649_0.jpg)
 
 A group of young people
 

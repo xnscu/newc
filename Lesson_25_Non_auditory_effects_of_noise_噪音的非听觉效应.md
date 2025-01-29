@@ -38,7 +38,7 @@ orphanage (1.23) $/\cos \theta  = \sin \theta \sin \phi /n$ . 孤儿院
 
 Unit 4 Lesson 25
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_152_204_156_831_672_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_152_204_156_831_672_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_152_204_156_831_672_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_152_204_156_831_672_0.jpg)
 
 An American aircraft carrier
 

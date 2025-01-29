@@ -58,7 +58,7 @@ eddy (1.6) $/$ edi/ $n$ . 旋涡
 
 Unit 2 Lesson 14
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_85_186_151_590_568_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_85_186_151_590_568_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_85_186_151_590_568_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_85_186_151_590_568_0.jpg)
 
 View of the 76 metre diameter Mark 1 A radio telescope at Jodrell Bank near Manchester, England
 

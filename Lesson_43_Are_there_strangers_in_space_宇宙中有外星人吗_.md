@@ -24,7 +24,7 @@ this kind, searching for intelligences on other planets would be like trying to 
 
 ANTHONY MICHAELIS Are There Strangers in Space? from The Weekend Telegraph
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_254_207_377_973_744_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_254_207_377_973_744_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_254_207_377_973_744_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_254_207_377_973_744_0.jpg)
 
 Simulation of a hypothetical sighting of a UFO (unidentified flying object) in the small town of Belleville, Wisconsin, USA. For several months in 1986- 1989, the town was plagued by UFO sightings.
 

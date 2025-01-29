@@ -14,7 +14,7 @@ Two factors weigh heavily against the effectiveness of scientific research in in
 
 J. D. Bernal The Social Function of Science
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_89_216_1272_953_745_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_89_216_1272_953_745_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_89_216_1272_953_745_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_89_216_1272_953_745_0.jpg)
 
 A scientist working at the 'Arcton' Laboratories in Cheshire
 

@@ -12,7 +12,7 @@ If it is not a question of resting the body, then perhaps it is the brain that n
 
 Christopher Evans The stuff of dreams from The Listener
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_112_196_1520_451_545_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_112_196_1520_451_545_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_112_196_1520_451_545_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_112_196_1520_451_545_0.jpg)
 
 Circadian rhythm experiment. A patient is asleep in a sleep research laboratory. Electrodes are attached to his head to measure brainwaves.
 

@@ -36,7 +36,7 @@ deem (1.17) $/\mathrm{{di}} : \mathrm{m}/v$ . 认为 means (1.20) $/\mathrm{{mi}
 
 Unit 5 Lesson 33
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_198_214_159_1101_677_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_198_214_159_1101_677_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_198_214_159_1101_677_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_198_214_159_1101_677_0.jpg)
 
 The library at the University of Sussex
 

@@ -14,7 +14,7 @@ Some old people are oppressed by the fear of death. In the young there is a just
 
 BERTRAND RUSSELL How to grow old from Portraits from Memory
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_67_203_1264_971_764_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_67_203_1264_971_764_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_67_203_1264_971_764_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_67_203_1264_971_764_0.jpg)
 
 Bertrand Russell speaking at a protest meeting in Trafalgar Square
 

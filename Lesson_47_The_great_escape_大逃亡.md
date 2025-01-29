@@ -22,7 +22,7 @@ Whether the remarkable growth of organized camping means the eventual death of t
 
 probably it will all depend upon campers themselves: how many heath fires they cause; how much litter they leave; in short, whether or not they wholly aljenate landowners and those who live in the countryside. Only good scouting is likely to preserve the freedoms so dear to the heart of the eternal Boy Scout.
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_277_229_427_1008_669_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_277_229_427_1008_669_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_277_229_427_1008_669_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_277_229_427_1008_669_0.jpg)
 
 Modern camping
 

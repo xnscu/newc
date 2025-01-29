@@ -16,7 +16,7 @@ It has been found that certain bats emit squeaks and by receiving the echoes, th
 
 Maurice Burton Curiosities of animal life
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_43_224_1298_668_725_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_43_224_1298_668_725_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_43_224_1298_668_725_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_43_224_1298_668_725_0.jpg)
 
 Echo-location in bats is often compared with radar.
 

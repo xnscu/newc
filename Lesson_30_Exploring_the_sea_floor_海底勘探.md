@@ -50,7 +50,7 @@ terrace (1.22) $/$ ter $\ni  r$ la 阶地
 
 erode (1.24) $/{I}^{\prime }r = 0\mathrm{\;d}/v$ . 侵蚀 Unit 4 Lesson 30
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_180_233_160_1101_676_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_180_233_160_1101_676_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_180_233_160_1101_676_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_180_233_160_1101_676_0.jpg)
 
 H. M. S. Challenger at St. Paul's Rocks near the Equator
 

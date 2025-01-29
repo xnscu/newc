@@ -52,7 +52,7 @@ flirt (1.22)/flɜːt/v. 调情
 
 inmost (1.23) /'inməʊst/ adj. 内心深处的
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_231_200_142_1099_677_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_231_200_142_1099_677_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_231_200_142_1099_677_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_231_200_142_1099_677_0.jpg)
 
 A scene from the film of John le Carré's book, The Spy who Came in from the Cold
 

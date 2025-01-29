@@ -40,7 +40,7 @@ methylated (l.18) /'meθɪleɪtɪd/ adj. 加入甲醇的
 
 Unit 5 Lesson 38
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_226_191_148_1070_724_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_226_191_148_1070_724_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_226_191_148_1070_724_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_226_191_148_1070_724_0.jpg)
 
 A woman is drawing water from a well.
 

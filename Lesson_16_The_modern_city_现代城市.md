@@ -12,7 +12,7 @@ In the organization of industrial life the influence of the factory upon the phy
 
 10 together. Civilized men like such a way of living. While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life. The modern city consists of monstrous edifices and of dark, narrow streets full of petrol fumes and toxic gases, torn by the noise of the taxicabs, lorries and buses, and thronged ceaselessly by great crowds. Obviously, it has not been planned for the good of its inhabitants. ALEXIS CARREL' Man, the Unknown
 
-![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_94_196_1225_821_803_0.jpg](images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_94_196_1225_821_803_0.jpg)
+![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_94_196_1225_821_803_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_94_196_1225_821_803_0.jpg)
 
 An aerial veiw of Pittsburgh, Pennsylvania
 
