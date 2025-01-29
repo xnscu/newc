@@ -41,7 +41,8 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
-
+        with:
+          enablement: true
       - name: Install dependencies
         run: npm install --no-package-lock # 使用 npm 且不检查 lock 文件
 
