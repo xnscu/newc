@@ -1,0 +1,36 @@
+/* 1. 修正数学公式块的滚动条选择器 */
+.MathJax {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  text-align: left !important;
+}
+
+.MathJax::-webkit-scrollbar {
+  display: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vp-doc table, .vp-doc td, .vp-doc th, .vp-doc tr {
+  border: 0; /* 完全移除所有边框线 */
+}
+.vp-doc th { background-color: white; text-align: center; }
+.vp-doc tr, .vp-doc tr:nth-child(2n) { background-color: white; }
+
+.vp-doc p, .vp-doc summary {
+  margin: 6px 0;
+}
+
+.vp-doc th, .vp-doc td {
+  padding: 0px 6px;
+}
+
+:root {
+  --vp-sidebar-width: 400px; /* 默认是272px */
+}
