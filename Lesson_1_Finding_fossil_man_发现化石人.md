@@ -24,17 +24,29 @@ Unit 1 Lesson 1
 
 ## New words and expressions 生词和短语
 
-fossil man (title) / 'fosəl-'mæn/ adj. 化石人 ancestor (1.5) /’ænsest $\partial /n$ . 祖先 recount (I.3) $/{\mathrm{{rI}}}^{\prime }$ kaʊnt/v. 叙述 Polynesian (1.6) / pɒlɪ'niːziən/adj. 波利尼西亚(中
+fossil man (title) /'fɒsəl-'mæn/ *adj*. 化石人
 
-saga (1.3) $/\operatorname{sarg}g/n$ . 英雄故事 太平洋之一群岛)的
+recount (1.3) /rɪ'kaʊnt/ *v*. 叙述
 
-legend (1.3) / ’ledʒand/ $n$ . 传说,传奇 Indonesia (1.7)/"Ində'niːzʒə/n. 印度尼西亚
+saga (1.3) /'sɑːɡə/ *n*. 英雄故事
 
-migration (1.4)/maɪ'ɡreɪʃən/n. 迁移,移居 flint (1.11) / flint/ n. 燧石
+legend (1.3) /'ledʒənd/ *n*. 传说, 传奇
 
-anthropologist (1.5) /,ænθrə'pɒlədʒɪst/ n. 人类学家 rot (1.12) $/\mathrm{{rot}}/v$ . 烂掉
+migration (1.4) /maɪ'ɡreɪʃən/ *n*. 迁移, 移居
 
-archaeologist (1.9) $/a$ :ki’0l’ $a$ dʒist $/n$ . 考古学家
+anthropologist (1.5) /,ænθrə'pɒlədʒɪst/ *n*. 人类学家
+
+archaeologist (1.9) /,ɑːki'ɒlədʒɪst/ *n*. 考古学家
+
+ancestor (1.5) /'ænsestə/ *n*. 祖先
+
+Polynesian (1.6) /,pɒlɪ'niːziən/ *adj*. 波利尼西亚 (中 太平洋之一群岛) 的
+
+Indonesia (1.7) /,ɪndə'niːziə/ *n*. 印度尼西亚
+
+flint (1.11) /flɪnt/ *n*. 燧石
+
+rot (1.12) /rɒt/ *v*. 烂掉
 
 ## Notes on the text 课文注释
 

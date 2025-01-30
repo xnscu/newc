@@ -16,33 +16,34 @@ George Orwell The sporting spirit
 
 ## New words and expressions 生词和短语
 
-goodwill (1.1) /’ $g\circlearrowleft d\mathrm{w}1/n$ . 友好
+**goodwill** (1.1) /'gʊdwɪl/ *n.* 友好
 
-cricket (1.2) /’krɪkɪt/ n. 板球
+**cricket** (1.2) /'krɪkɪt/ *n.* 板球
 
-inclination (1.3) ${/}_{1}\mathrm{{Inkl}}{\mathrm{I}}^{\prime }\mathrm{{ne}}\mathrm{I}\int \mathrm{d}\mathrm{n}/n$ . 意愿
+**inclination** (1.3) /,ɪnklɪ'neɪʃən/ *n.* 意愿
 
-contest (1.4) /’kontest/ $n$ . 比赛
+**contest** (1.4) /'kɒntest/ *n.* 比赛
 
-orgy (1.4) ${I}^{\prime }0$ : $d$ ʒ $i/n$ . 无节制,放荡
+**orgy** (1.4) /'ɔːdʒi/ *n.* 无节制,放荡
 
-deduce (I.4) $/$ dɪ'djuːs $/v$ . 推断
+**deduce** (1.4) /dɪ'dʒuːs/ *v.* 推断
 
-competitive (1.6) /kəm'petɪtɪv/ adj. 竞争性的
+**competitive** (1.6) /kəm'petɪtɪv/ *adj.* 竞争性的
 
-patriotism (1.8) /’paetriatizem/ $n$ . 地方观念,爱国主义
+**patriotism** (1.8) /'pætriətɪzəm/ *n.* 地方观念，爱国主义
 
-disgrace (1.9) / dIs'greIs/ $v$ . 使丢脸
+**disgrace** (1.9) /dɪs'greɪs/ *v.* 使丢脸
 
-savage (1.10) /'sævɪdʒ/ adj. 野性的
+**savage** (1.10) /'sævɪdʒ/ *adj.* 野性的
 
-combative (1.10) / 'kombativ/ adj. 好斗的
+**combative** (1.10) /'kɒmbətɪv/ *adj.* 好斗的
 
-mimic warfare (1.11)/"mImIk-'wɔ:feә/模拟战争
+**mimic warfare** (1.11) /'mɪmɪk-'wɔːfeə/ 模拟战争
 
-behaviour (1.11)/bI’hervj $\partial /n$ . 行动,举止
+**behaviour** (1.11) /bɪ'heɪvjə/ *n.* 行动，举止
 
-absurd (1.13) /əb'sɜːd/ adj. 荒唐的
+**absurd** (1.13) /əb'sɜːd/ *adj.* 荒唐的
+
 
 ## Notes on the text 课文注释
 

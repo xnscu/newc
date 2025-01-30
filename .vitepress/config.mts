@@ -71,7 +71,7 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    // socialLinks: [{ icon: "github", link: "https://github.com/xnscu/newc" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/xnscu/newc" }],
     sidebar: generateSidebar({
       /*
        * For detailed instructions, see the links below:

@@ -24,7 +24,22 @@ Unit 1 Lesson 4
 
 ## New words and expressions 生词和短语
 
-solid (1.2) / 'sɒlɪd/ adj. 坚实的 lotto (1.10) $/{10t} = 0/n$ . 一种有编号的纸牌 safe (1.5) $/$ serf/ $n$ . 保险柜 slipper (1.11) $/\operatorname{slrp} = /n$ . 拖鞋 Ulyanovsk (1.7)/uː'ljɑːnɔːfsk/n. 乌里扬诺夫斯克 blindfold (1.13) /'blaɪndfəʊld/ adj. & adv. 被蒙上眼 commission (1.8) $/\mathrm{k}{\partial }^{\prime }\mathrm{m}\mathrm{I}\int \mathrm{d}\mathrm{n}/n$ . 委员会 睛的 opaque (1.10) /эʊ'peɪk/adj. 不透明的
+**solid** /'sɒlɪd/  *adj.* 坚实的
+
+**safe** /seɪf/ *n.* 保险柜
+
+**Ulyanovsk** /u:ˈljɑːnəfsk/ *n.* 乌里扬诺夫斯克
+
+**commission** /kəˈmɪʃən/ *n.* 委员会
+
+**opaque** /əʊˈpeɪk/ *adj.* 不透明的
+
+**lotto** /'lɒtəʊ/ *n.* 一种有编号的纸牌
+
+**slipper** /'slɪpə/ *n.* 拖鞋
+
+**blindfold** /'blaɪndfəʊld/ *adj. & adv.* 被蒙上眼睛的
+
 
 ## Notes on the text 课文注释
 

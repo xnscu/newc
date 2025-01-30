@@ -18,11 +18,15 @@ T. H. Gillespie Spare that spider from The Listener
 
 ![0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg](/images/0194aab3-0ed8-72f2-8dd3-105cdb2ca210_13_198_1345_645_804_0.jpg)
 
-# Unit 1 Lesson 2 New words and expressions 生词和短语
+## New words and expressions 生词和短语
 
-beast (1.4) /biːst/n. 野兽 acre (1.11) / ’ eɪkə/ n. 英南
+beast (1.4) /bi:st/ _n_. 野兽
 
-census (1.9) $/$ sens $\partial s/n$ . 统计数字 content (1.13) $/\mathrm{k}$ an’tent/adj. 满足的
+census (1.9) /'sensəs/ _n_. 统计数字
+
+acre (1.11) /'eɪkə/ _n_. 英亩
+
+content (1.13) /kən'tent/ _adj_. 满足的
 
 ## Notes on the text 课文注释
 

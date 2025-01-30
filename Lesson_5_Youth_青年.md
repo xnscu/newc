@@ -20,39 +20,39 @@ Unit 1 Lesson 5
 
 ## New words and expressions 生词和短语
 
-leave (1.1) $/$ liːv/ $n$ . 允许
+**leave** (1.1) /**li:v**/ *n.* 允许
 
-fundamentals $\left( {1.2}\right) /\mathrm{f} \land  \mathrm{n}\mathrm{d}{ \circ  }^{\prime }$ mentlz $/\mathrm{n}$ . 基本原则
+**fundamentals** (1.2) /**,fʌndə'mentlz/** *n.* 基本原则
 
-glorious (1.4) /'glɔːrɪəs/ adj. 光辉灿烂的
+**glorious** (1.4) /**'glɔ:riəs/** *adj.* 光辉灿烂的
 
-splendid (1.4) / 'splendɪd/ adj. 灿烂的
+**splendid** (1.4) /**'splendid/** *adj.* 灿烂的
 
-$\mathrm{{rub}}$ (1.5) $/\mathrm{r}\lambda \mathrm{b}/n$ . 难题
+**rub** (1.5) /**rʌb/** *n.* 难题
 
-identity (1.8) /aɪ'dentɪti/ $n$ . 身份
+**identity** (1.8) /**aɪ'dentɪti/** *n.* 身份
 
-dreary (1.10) /'drɪəri/ adj. 沉郁的
+**dreary** (1.10) /**'drɪəri/** *adj.* 沉郁的
 
-commitment (l.10) $/\mathrm{k} =$ mItmant $/n$ . 信奉
+**commitment** (1.10) /**kə'mɪtmənt/** *n.* 信奉
 
-mean (1.11)/miːn/adj. 吝啬, 小气
+**mean** (1.11) /**mi:n/** *adj.* 吝啬, 小气
 
-social climber (l.11) $/$ , səuʃəl-'klaimə/追求更高社会地位的人, 向上爬的人
+**social climber** (1.11) /**ˌsəʊʃəlˈklaɪmə/**  追求更高社会地位的人，向上爬的人
 
-devotion (1.11) $/{\mathrm{{dI}}}^{\prime } \vee  \partial  \cup  \int \partial \mathrm{n}/n$ . 热爱
+**devotion** (1.11) /**dɪˈvəʊʃən/** *n.* 热爱
 
-cosmic (1.13) / 'kɒzmɪk/ adj. 宇宙的
+**cosmic** (1.13) /**ˈkɒzmɪk/** *adj.* 宇宙的
 
-suburban (1.13) $/{\mathrm{{so}}}^{\prime }\mathrm{b}3$ : $\mathrm{{ban}}/\mathrm{{adj}}$ . 见识不广的、偏狭的
+**suburban** (1.13) /**səˈbɜːbən/** *adj.* 见识不广的，偏狭的
 
-conceited (1.14) /kənˈsiːtɪd/ adj. 自高自大的
+**conceited** (1.14) /**kənˈsiːtɪd/** *adj.* 自高自大的
 
-presumptuous (1.14) /prI'zʌmptʃʊəs/adj. 自以为是的, 放肆的
+**presumptuous** (1.14) /**prɪˈzʌmptʃuəs/** *adj.* 自以为是的，放肆的
 
-fatuous (1.14) /"fætʃʊəs/adj. 愚蠢的
+**fatuous** (1.14) /**ˈfætʃuəs/** *adj.* 愚蠢的
 
-cliché (1.15) $/$ ’kliːfeɪ/ $n$ . 陈词滥调
+**cliché** (1.15) /**ˈkliːʃeɪ/** *n.* 陈词滥调
 
 ## Notes on the text 课文注释
 

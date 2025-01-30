@@ -24,11 +24,42 @@ Unit 1 Lesson 3
 
 ## New words and expressions 生词和短语
 
-Matterhorn (title)/"mætshɔːn/n.马特霍恩峰(阿尔 solitary (1.6) / ’sɒlɪtəri/ adj. 唯一的卑斯山峰之一, 在意大利和瑞士边境) impoverish (ll.9-10)/IM'pɒvərɪʃ/v. 使贫困
+**Matterhorn** /'mætəhɔ:n/ *n.* 马特霍恩峰 (阿尔卑斯山峰之一，在意大利和瑞士边境)
 
-alpinist (1.1) / ælpinist/ $n$ . 登山运动员 Alpine (1.9) / ælpaɪn/ adj. 阿尔卑斯山的
+**alpinist** /'ælpɪnɪst/ *n.* 登山运动员
 
-pioneer (1.2) / para ’ $n$ 1 $\partial /v$ . 开辟,倡导; $n$ . 先锋,开 flea-ridden (1.11) /'fliːˌrɪdn/ adj. 布满跳蚤的辟者 coarse (1.12) $/\mathrm{k}$ ɔːs/ adj. 粗劣的 summit (1.3) $/\prime$ sʌmɪt $/n$ . 顶峰 boast (1.12) $/b \ni  \sigma$ st/ $v$ . 自恃有 attain (1.4) $/{\theta }^{\prime }$ tem/v. 到达 parishioner (1.13)/pâ'rɪʃənə/n. 教区居民 perilous (1.5) / per $I$ løs/ adj. 危险的 shepherd (1.14) / ’ʃepəd/ n. 牧羊人 shudder (1.5) $/\prime \int \Lambda \mathrm{d}\partial /v$ . 不寒而栗 linen (1.15) /’linIn/ $n$ . 亚麻布床单 court (1.6) $/\mathrm{k} > t/v$ . 追求 the Alps (1.16) $/{ælps}/n$ . 阿尔卑斯山脉
+**pioneer** /ˌpaɪəˈnɪə/ *v.* 开辟，倡导；*n.* 先锋，开辟者
+
+**summit** /'sʌmɪt/ *n.* 顶峰
+
+**attain** /əˈteɪn/ *v.* 到达
+
+**perilous** /'perɪləs/ *adj.* 危险的
+
+**shudder** /'ʃʌdə/ *v.* 不寒而栗
+
+**court** /kɔːt/ *v.* 追求
+
+**solitary** /'sɒlɪtəri/ *adj.* 唯一的
+
+**impoverish** /ɪmˈpɒvərɪʃ/ *v.* 使贫困
+
+**Alpine** /'ælpaɪn/ *adj.* 阿尔卑斯山的
+
+**flea-ridden** /'fliːˌrɪdn/ *adj.* 布满跳蚤的
+
+**coarse** /kɔːs/ *adj.* 粗劣的
+
+**boast** /bəʊst/ *v.* 自恃有
+
+**parishioner** /pəˈrɪʃənə/ *n.* 教区居民
+
+**shepherd** /'ʃepəd/ *n.* 牧羊人
+
+**linen** /'lɪnɪn/ *n.* 亚麻布床单
+
+**the Alps** /ælps/ *n.* 阿尔卑斯山脉
+
 
 ## Notes on the text 课文注释
 
